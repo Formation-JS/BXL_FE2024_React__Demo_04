@@ -1,0 +1,3 @@
+[submodule "app-react"]
+	path = app-react
+	url = https://github.com/Formation-JS/BXL_FE2024_React__Demo_04__App_React

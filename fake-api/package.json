@@ -1,0 +1,14 @@
+{
+  "name": "demo-04-ajax-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server db.json"
+  },
+  "author": "Aurélien",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
